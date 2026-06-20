@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="courses_search">Поиск курсов...</string>
+    <string name="courses_filter">Фильтр</string>
+    <string name="courses_sort_by_date">Сортировать по дате</string>
+    <string name="courses_details">Подробнее</string>
+    <string name="courses_retry">Повторить</string>
+    <string name="courses_no_courses">Нет доступных курсов</string>
+    <string name="courses_error_network">Ошибка загрузки</string>
+</resources>

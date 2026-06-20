@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21">
+      <module name="edu-sales.core.common" target="21" />
+      <module name="edu-sales.core.database" target="21" />
+      <module name="edu-sales.core.network" target="21" />
+      <module name="edu-sales.data" target="21" />
+      <module name="edu-sales.domain" target="21" />
+      <module name="edu-sales.feature.account" target="21" />
+      <module name="edu-sales.feature.auth" target="21" />
+      <module name="edu-sales.feature.courses" target="21" />
+      <module name="edu-sales.feature.favorites" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

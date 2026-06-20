@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_title">Вход</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_email_placeholder">Введите email</string>
+    <string name="auth_password">Пароль</string>
+    <string name="auth_password_placeholder">Введите пароль</string>
+    <string name="auth_login">Войти</string>
+    <string name="auth_no_account">Нет аккаунта?</string>
+    <string name="auth_register">Зарегистрироваться</string>
+    <string name="auth_forgot_password">Забыли пароль?</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduSale</string>
+    <string name="nav_home">Курсы</string>
+    <string name="nav_favorites">Избранное</string>
+    <string name="nav_account">Аккаунт</string>
+</resources>
